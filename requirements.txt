@@ -4,3 +4,4 @@ seaborn
 pandas
 statsmodels
 scikit-learn
+Jinja2
