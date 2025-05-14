@@ -1,0 +1,36 @@
+Parametr,Wartość
+Średnia,25.2195
+Średnia geometryczna,24.4059
+Średnia harmoniczna,23.6192
+Mediana,24.0000
+Moda,31
+Wariancja (próbkowa),42.7996
+Wariancja (populacyjna),42.5908
+Odchylenie standardowe (próbkowe),6.5421
+Odchylenie standardowe (populacyjne),6.5262
+Odchylenie przeciętne,5.2155
+Odchylenie ćwiartkowe,5.5000
+Współczynnik zmienności,25.9408
+Skośność,0.6637
+Współczynnik asymetrii Pearsona,0.5592
+Kurtoza,0.5786
+Eksces,0.5786
+Minimum,13
+Maximum,49
+Zakres,36
+Q1 (25%),19.0000
+Q2 (50%),24.0000
+Q3 (75%),30.0000
+P10 (10%),17.0000
+P90 (90%),31.6000
+P95 (95%),37.0000
+P99 (99%),44.7200
+IQR,11.0000
+Błąd standardowy średniej,0.4569
+Suma,5170
+Liczba obserwacji,205.0000
+Liczba unikalnych wartości,29.0000
+Moment centralny rzędu 1,0.0000
+Moment centralny rzędu 2,42.5908
+Moment centralny rzędu 3,183.1272
+Moment centralny rzędu 4,6413.3334

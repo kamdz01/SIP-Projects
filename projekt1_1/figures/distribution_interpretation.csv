@@ -1,0 +1,16 @@
+Zmienna,Skośność,Kurtoza,Wsp. zmienności,Średnia vs Mediana
+normalized-losses,0.98 (prawostronnie asymetryczna),1.50 (leptokurtyczny (smuklejszy)),26.4% (średnio zróżnicowany),średnia > mediany
+bore,0.02 (bliska symetrii),-0.79 (platykurtyczny (spłaszczony)),8.1% (mało zróżnicowany),równe
+stroke,-0.70 (lewostronnie asymetryczna),2.18 (leptokurtyczny (smuklejszy)),9.6% (mało zróżnicowany),mediana > średniej
+horsepower,1.40 (prawostronnie asymetryczna),2.69 (leptokurtyczny (smuklejszy)),37.9% (silnie zróżnicowany),średnia > mediany
+peak-rpm,0.07 (bliska symetrii),0.08 (zbliżony do normalnego),9.3% (mało zróżnicowany),mediana > średniej
+price,1.84 (prawostronnie asymetryczna),3.37 (leptokurtyczny (smuklejszy)),59.9% (silnie zróżnicowany),średnia > mediany
+engine-size,1.95 (prawostronnie asymetryczna),5.31 (leptokurtyczny (smuklejszy)),32.8% (silnie zróżnicowany),średnia > mediany
+curb-weight,0.68 (prawostronnie asymetryczna),-0.04 (zbliżony do normalnego),20.4% (średnio zróżnicowany),średnia > mediany
+height,0.06 (bliska symetrii),-0.44 (zbliżony do normalnego),4.5% (mało zróżnicowany),równe
+width,0.90 (prawostronnie asymetryczna),0.70 (leptokurtyczny (smuklejszy)),3.3% (mało zróżnicowany),równe
+length,0.16 (bliska symetrii),-0.08 (zbliżony do normalnego),7.1% (mało zróżnicowany),równe
+wheel-base,1.05 (prawostronnie asymetryczna),1.02 (leptokurtyczny (smuklejszy)),6.1% (mało zróżnicowany),średnia > mediany
+compression-ratio,2.61 (prawostronnie asymetryczna),5.23 (leptokurtyczny (smuklejszy)),39.2% (silnie zróżnicowany),średnia > mediany
+city-mpg,0.66 (prawostronnie asymetryczna),0.58 (leptokurtyczny (smuklejszy)),25.9% (średnio zróżnicowany),średnia > mediany
+highway-mpg,0.54 (prawostronnie asymetryczna),0.44 (zbliżony do normalnego),22.4% (średnio zróżnicowany),średnia > mediany
